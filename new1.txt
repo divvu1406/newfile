@@ -1,2 +1,2 @@
 hello this is new1
-
+adding some lines to new1 text
